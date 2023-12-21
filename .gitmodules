@@ -1,0 +1,6 @@
+[submodule "gda-back"]
+	path = gda-back
+	url = git@github.com:MITIT-DEP22/gda-back.git
+[submodule "gda-front"]
+	path = gda-front
+	url = git@github.com:MITIT-DEP22/gda-front.git
